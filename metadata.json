@@ -1,0 +1,7 @@
+{
+  "name": "Calculadora Python - Guia Interativo para Iniciantes",
+  "description": "Aprenda a construir uma calculadora em Python com as quatro operações básicas: código comentado, explicações passo a passo, depurador visual e terminal interativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
